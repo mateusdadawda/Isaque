@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "NucleoDoServidor", 
+    "username": "Mod", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "emerald.magmanode.com", 
-    "port": 30094,   
+    "ip": "HyperMC_com.aternos.me", 
+    "port": 28542,   
     "version": "1.12.1"   
   },
   
